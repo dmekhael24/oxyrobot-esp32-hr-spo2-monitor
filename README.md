@@ -40,6 +40,7 @@ This project uses an **ESP32 DevKit v1** and a **DFRobot MAX30102 Sensor** to mo
 
 ## 📷 Demo
 ![Serial Monitor](serial_output.png)
+![Telegram Alert](telegram_alert.jpeg)
 
 ## 📄 Report
 Full documentation available in [`oxyrobot.pdf`](./oxyrobot.pdf)
