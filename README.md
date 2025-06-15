@@ -38,6 +38,9 @@ This project uses an **ESP32 DevKit v1** and a **DFRobot MAX30102 Sensor** to mo
 3. Start the bot with `/start`
 4. Get your chat ID via: https://api.telegram.org/bot<your_token>/getUpdates
 
+## 📷 Demo
+![Serial Monitor](images/serial_output.png)
+
 ## 📄 Report
 Full documentation available in [`oxyrobot.pdf`](./oxyrobot.pdf)
 
